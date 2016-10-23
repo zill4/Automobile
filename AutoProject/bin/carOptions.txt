@@ -1,0 +1,7 @@
+red,1,true,false,true
+brown,2,true,false,false
+green,1,false,true,true
+orange,3,false,true,true
+black,2,false,true,true
+pink,4,fal,true,true
+yellow,2,false,false,true

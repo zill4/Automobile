@@ -1,6 +1,7 @@
 package Model;
 
 import java.io.Serializable;
+import java.util.HashMap;
 import java.util.Scanner;
 
 @SuppressWarnings("serial")
@@ -8,8 +9,9 @@ public class OptionSet implements Serializable
 {
 
 	//VARIABLES
-		
+		HashMap<String,Option> optionMap = new HashMap<String,Option>();
 		Option opt = new Option();
+		private String name;
 		private String color;
 		private String transmission;
 		private String airBags;
@@ -17,8 +19,9 @@ public class OptionSet implements Serializable
 		private int abs;
 		private float basePrice;
 	//OPTIONSET CONSTRUCTORS
-	OptionSet()
+	public OptionSet()
 	{
+		name = null;
 		color = null;
 		transmission = null;
 		airBags = null;
@@ -28,9 +31,16 @@ public class OptionSet implements Serializable
 
 	public OptionSet(String color, int abs, String transmission, String airBags, String moonroof)
 	{
+		name = null;
 		setAll(color,abs,transmission,airBags,moonroof);
-		//System.out.println(color);
 		setOption();
+	}
+	
+	public OptionSet(String name, String color, int abs, String transmission, String airBags, String moonroof)
+	{
+		this.name = name;
+		setAll(color,abs,transmission,airBags,moonroof);
+		setOption(name);
 	}
 	//GETTERS//SETTERS*****************************************
 	protected void setAll(String c, int abs, String t, String a, String m)
@@ -45,18 +55,93 @@ public class OptionSet implements Serializable
 	protected void setOption()
 	{
 		opt = new Option(color,abs,transmission,airBags,moonroof,basePrice);
+		
+	}
+	protected void setOption(String name)
+	{
+		this.name = name;
+		//add Hashmap for this.
+		//Name defines a package. 
+			//Name -> pleb = Option(Color, ABS(0), True,False,False
+			//Name -> plus = Option(Color, ABS(1), True,False,False
+			//Name -> Pro = Option(Color ABS(1), True,True,True
+			//Name -> Premium = Option(color ABS(2), False,True,True
+			optionMap.put("Pleb", new Option(color, 0, "True", "False", "False", basePrice));
+			optionMap.put("Plus", new Option(color, 1, "True", "False", "False", basePrice));
+			optionMap.put("Pro",  new Option(color,1,"True", "True", "True", basePrice));
+			optionMap.put("Premium", new Option(color,2,"False", "True", "True", basePrice));
+			if(optionMap.get(name) == null)
+			{
+				System.out.println("ERROR OPTION DNE");
+				System.out.println("Set Option to Default");
+				optionMap.get("Pleb");
+			}
 	}
 
-	protected int numOfOptions()
+	
+	protected void upgradeOption(boolean upgrade)
 	{
+		//insert low level machine learning here.
+		// shame == 'true'
+		if(upgrade)
+		{
+			if(name.equals("Pleb")){name = "Plus";}
+			else if(name.equals("Plus")){name = "Pro";}
+			else if(name.equals("Pro")){name = "Premium";}
+			else{name = "Premium";}
+		}
+		else
+		{
+			
+			if(name.equals("Premium")){name = "Pro";}
+			else if(name.equals("Pro")){name = "Plus";}
+			else if(name.equals("Plus")){name = "Pleb";}
+			else{name = "Pleb";}
+		}
+		System.out.println(name);
+	}
+	
+	//10/26/16 changed from numOfOptions -> to return package name
+	protected String getOptionSetName()
+	{
+		String selectedOptionSet;
+		if(name == null){
 		int num = 0;
 		num = opt.selectedFeatures();
-		return num;
+		switch (num)
+		{
+		case 0: selectedOptionSet = "Pleb";
+		break;
+		case 1: selectedOptionSet = "Plus";
+		break;
+		case 2: selectedOptionSet = "Pro";
+		break;
+		case 3: selectedOptionSet = "Pro";
+		break; 
+		case 4: selectedOptionSet = "Premium";
+		break;
+		default: selectedOptionSet = "Custom";
+		}
+		return selectedOptionSet;
+		}else{
+			return name;
+		}
+	}
+
+	protected String getPrintOption()
+	{
+		String report = opt.printOption();
+		return report;
+	}
+	
+	protected float getUpdatedPrice()
+	{
+		return opt.getUpdatedPrice();
 	}
 	//END:GETTERS//SETTERS*************************************
 	
 	
-	//OPTION CLASS String,int,String,String,String
+	//****OPTION CLASS****
 	protected class Option
 	{
 		//VARIABLES
@@ -139,7 +224,7 @@ public class OptionSet implements Serializable
 		{
 			int total = 0;
 			if(getAbs()> 1){ total++;}
-			if(getTransmission()){total++;}
+			if(!getTransmission()){total++;} //negative option
 			if(getAirBags()){total++;}
 			if(getMoonroof()){total++;}
 			return total;
@@ -228,16 +313,16 @@ public class OptionSet implements Serializable
 			return price;
 		}
 		//END:GETTERS//SETTERS*************************************
-		protected void printOption()
+		protected String printOption()
 		{
-			System.out.println("********************************************");
-			System.out.println("|              OPTION REPORT              |");
-			System.out.println("Color:" + getColor());
-			System.out.println("ABS: " + getAbs() + "   " + absCost);
-			System.out.println("Transmission: " + getTransmission()+ "   " + transCost);
-			System.out.println("Air Bags: " + getAirBags()+ "    " + airBagCost);
-			System.out.println("Moonroof: " + getMoonroof()+ "   " + moonroofCost);
-			System.out.println("Total Price: " + getUpdatedPrice());
+			String report = ('\n' + "********************************************" + '\n'+
+							"|              OPTION REPORT              |" + '\n' + 
+							"Color:" + getColor() + '\n' +
+							"ABS: " + getAbs() + "   " + absCost + '\n' +
+							"Transmission: " + getTransmission()+ "   " + transCost + '\n' +
+							"Air Bags: " + getAirBags()+ "    " + airBagCost + '\n' +
+							"Moonroof: " + getMoonroof()+ "   " + moonroofCost + '\n' );
+			return report;
 		}
 	}
 }

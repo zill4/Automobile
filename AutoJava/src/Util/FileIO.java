@@ -28,7 +28,7 @@ public class FileIO implements Serializable
 	//****CONSTRUCTORS****
 	public FileIO() throws IOException
 	{
-		setFileName("/Users/Justin/git/Automobile/Autoproject/bin/newCarOptions.txt");
+		setFileName("/Users/Justin/Documents/Workspace/AutoJava/bin/newCarOptions.txt");
 		setFileIndex();
 
 	}
@@ -48,8 +48,8 @@ public class FileIO implements Serializable
 	{
 		
 			//Attempting to use current directory created from the original file path
-			//this only works with my existing test directory.
-			///Users/Justin/git/Automobile/Autoproject/bin/newCarOptions.txt"
+			
+			
 			//it appends based on the given indexed points.
 		
 		
@@ -88,7 +88,7 @@ public class FileIO implements Serializable
 					//Contains line data for each read.
 					 
 					line = bookWorm.readLine();
-					System.out.println(line);
+					
 					
 					//creating a array to read the objects of each file as separated by ,
 					//String[] parts = new String[fileIndex[i]];, INSTEAD OF THIS, I used an arrayList which is much more efficient.
@@ -97,7 +97,7 @@ public class FileIO implements Serializable
 					{
 						lineSplits.add(part);
 						
-						System.out.println(lineSplits.get(k));
+					
 						k++;
 					}
 					

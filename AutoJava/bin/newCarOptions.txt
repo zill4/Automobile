@@ -1,0 +1,7 @@
+ford,mustang,1969,red,1,true,false,true
+nissan,z,2008,brown,2,true,false,false
+toyota,prius,2012,green,1,false,true,true
+honda,civic,2005,orange,3,false,true,true
+porsche,carrera 911,1996,black,2,false,true,true
+jeep,grand cherokee,2000,brown,4,fal,true,true
+ford,Mustang,2016,black,2,false,false,true

@@ -14,6 +14,8 @@ public class Driver
 			System.out.println("* Starting Application: Crisp Car Catalog *"); //CCC
 			System.out.println("*******************************************");
 			FileIO runIt = new FileIO();
+			runIt.selectFile();
+		//Ask which file I should run?
 			runIt.openFile();
 		}
 }

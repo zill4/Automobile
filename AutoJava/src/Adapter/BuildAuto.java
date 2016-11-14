@@ -5,7 +5,7 @@ import Util.FileEdit;
 import Util.FileIO;
 public class BuildAuto extends ProxyAutomobile implements CreateAuto, UpdateAuto
 {
-
+	
 	@Override
 	public void updateOptionSetName(int modelID, String optionSetName) throws Exception 
 	{
@@ -38,7 +38,5 @@ public class BuildAuto extends ProxyAutomobile implements CreateAuto, UpdateAuto
 		System.out.println(displayAuto);
 		
 	}
-	
-
-	
+		
 }

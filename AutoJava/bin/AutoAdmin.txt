@@ -1,0 +1,11 @@
+
+Ford,Mustang,1969,2016,70000,(packages)5,(colorSet)5,(boolOptions +/-’s)5
+Ford,Mustang,1960,2016,60000,5,5,5
+Ford,Fusion,2000,2016,30000,3,10,4
+Ford,f150,1950,2016,50000,5,4,3
+Tesla,Model X,2015,2016,90000,3,4,4
+Tesla,Model S,2014,2016,90000,3,4,4
+Tesla,Roadster,2012,2016,120000,2,2,2
+Porsche,Carrera 911,1980,2016,3,6,4
+Porsche,Boxster 718,1980,2016,3,5,4
+Porsche,Panamera,2010,2016,4,6,5

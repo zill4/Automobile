@@ -12,11 +12,9 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.PrintWriter;
-import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-@SuppressWarnings("serial")
 public class FileIO implements FileOperator
 {
 	//****VARIABLES****
@@ -150,7 +148,7 @@ public class FileIO implements FileOperator
 			ArrayList <String> lineSplits = new ArrayList<>();
 			int indexObj = 0;
 			String line; 
-			int k = 0;
+		
 				//Runs for the # of lines in the file.
 				for(int i = 0; i < fileSize; i++) 
 				{
@@ -162,14 +160,12 @@ public class FileIO implements FileOperator
 					for(String part : line.split(","))
 					{
 						lineSplits.add(part);
-						k++;
 					}
 					
 					opsetArr[indexObj] = new OptionSet(lineSplits.get(3),Integer.valueOf(lineSplits.get(4)), lineSplits.get(5), lineSplits.get(6), lineSplits.get(7));
 					autoArr[indexObj] = new Automobile(lineSplits.get(0), lineSplits.get(1), Integer.valueOf(lineSplits.get(2)), opsetArr[indexObj]);
 					indexObj++;
 					lineSplits.clear();
-					k = 0;
 				}
 				//adding the prior created AutoObjects to an ArrayList
 					for(int j = 0; j< indexObj; j++)

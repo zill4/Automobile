@@ -20,18 +20,15 @@ public class AutoAdmin implements FileOperator
 	 */
 	private String fileName;
 	private int fileLines[];
-	private int coutIndex;
 	private int fileSize;
-	//Make>Model>Package
-	//Mode>Year>Year>Package>Options
-	private ArrayList <String> makeList = new ArrayList<>();
-	private ArrayList <String> modelList = new ArrayList<>();
-	private ArrayList <String> packageList = new ArrayList<>();
 	private HashMap <String, String> autoMap = new HashMap<>();
-	AutoAdmin() throws IOException
+	private HashMap <String, String> modelYearMap = new HashMap<>();
+	private HashMap <String, Float> modelPriceMap = new HashMap<>();
+	AutoAdmin() throws Exception
 	{
-		fileName = "/Users/Justin/documents/workspace/AutoJava/bin/AutoAdmin.txt";
+		fileName = "C:\\Users\\Justin\\workspace\\AutoJava\\bin\\AutoAdmin.txt";
 		fileLines = numLines(fileName);
+		openFile();
 		traverseMap();
 	}
 	public int[] numLines(String fileName) throws IOException
@@ -69,30 +66,62 @@ public class AutoAdmin implements FileOperator
 		}
 	} 
 	
+	
 	public void openFile() throws Exception
 	{
-		/*
+		
 			FileReader adminFile = new FileReader(fileName);
 			BufferedReader readFile = new BufferedReader(adminFile);
-		*/
+			ArrayList<String>tempArrayList = new ArrayList<>();
+			String tempMake = null;
+			String tempModel = null;
+			String tempYear = null;
+			String line = null;
+			int index = 0;
+			int j = 0;
+			
+			for(int i = 0; i < fileSize; i++)
+			{
+				line = readFile.readLine();
+				for(String part : line.split(","))
+				{
+					tempArrayList.add(part);
+				//Format Make > Model > Starting Year > Closing Year > Price > Package > Colors > Options
+				// HashMap  Model.YearYear    model > Tesla. 20102016, read through the 0-3 place.
+				// Ford.getYears()
+				// modelYearMap.key(Ford.Fusion),19902005
+				// for 0-3 get y1
+				// for 3-7 get y2
+					switch(index)
+					{
+					case 1: tempMake = tempArrayList.get(j);	
+					break;
+					case 2:	tempModel = tempArrayList.get(j);
+					break;
+					case 3: tempYear = tempArrayList.get(j);
+					break;
+					case 4: modelYearMap.put(tempModel, tempYear + tempArrayList.get(j));
+					break;
+					case 5: modelPriceMap.put(tempModel, Float.valueOf(tempArrayList.get(j)));
+					break;
+					default: System.out.println(tempArrayList.get(j));		
+					}
+					autoMap.put(tempModel,tempMake);
+					index++;
+					j++;
+				}
+				index = 1;
+			}
 		
 		
 	}
 	public void traverseMap()
 	{
-		makeList.add("Ford");
-		makeList.add("Tesla");
-		makeList.add("Toyota");
-		modelList.add("Model S");
-		modelList.add("Model T");
-		modelList.add("Prius");
-
-		autoMap.put(makeList.get(1), modelList.get(1));
-		autoMap.put(makeList.get(2), modelList.get(2));
-		
+		System.out.println(modelYearMap.toString());
+		System.out.println(modelPriceMap.toString());
 		System.out.println(autoMap.toString());
 	}
-	public static void main(String[] args) throws IOException
+	public static void main(String[] args) throws Exception
 	{
 		System.out.println("Don't worry this is only a test");
 		AutoAdmin auto = new AutoAdmin();

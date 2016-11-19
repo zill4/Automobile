@@ -2,10 +2,10 @@ package Adapter;
 
 
 import Util.FileEdit;
-import Util.FileIO;
+import Util.FileUser;
 public class BuildAuto extends ProxyAutomobile implements CreateAuto, UpdateAuto
 {
-
+	
 	@Override
 	public void updateOptionSetName(int modelID, String optionSetName) throws Exception 
 	{
@@ -26,7 +26,7 @@ public class BuildAuto extends ProxyAutomobile implements CreateAuto, UpdateAuto
 	@Override
 	public void buildAuto(String filename) throws Exception 
 	{
-		FileIO userDefinedFile = new FileIO(filename);
+		FileUser userDefinedFile = new FileUser(filename);
 		userDefinedFile.openFile();
 	}
 	
@@ -38,7 +38,5 @@ public class BuildAuto extends ProxyAutomobile implements CreateAuto, UpdateAuto
 		System.out.println(displayAuto);
 		
 	}
-	
-
-	
+		
 }

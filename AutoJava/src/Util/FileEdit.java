@@ -5,16 +5,15 @@ import java.util.HashMap;
 
 import Model.Automobile;
 
-public class FileEdit
+public class FileEdit extends FileUser
 {
 	//check for file size
 	//HashMap currently only works for 1 run of the program, soon to add functionality beyond using 
 	//report ID retrieval.
-	private FileIO fin = new FileIO();
+	private FileUser fin = new FileUser();
 	protected static HashMap<Integer,Automobile> autoID = new HashMap<Integer,Automobile>();
 	private ArrayList<Automobile> autos = new ArrayList<Automobile>();
 	private Automobile auto = new Automobile();
-	//private int autoIndex;
 	public String model;
 	public FileEdit() throws Exception 
 	{
@@ -102,7 +101,6 @@ public class FileEdit
 	}
 	public static void main(String[] args) throws Exception
 	{
-	
 		FileEdit fimo = new FileEdit();
 		fimo.setOptionSet(2, "Pro");
 		fimo.upgradeOptionSet(2, 100);

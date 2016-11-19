@@ -210,7 +210,8 @@ public class OptionSet implements Serializable
 			}
 			else
 			{
-				System.out.println("Invalid Input, set to default");
+				System.out.println("Invalid Input, set to default: EXCEPTION should be thrown.");//11/11/16 Consider throwing An Exception Here.
+				
 				choice = false;
 			}
 			return choice;

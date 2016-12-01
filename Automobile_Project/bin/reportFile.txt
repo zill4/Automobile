@@ -1,0 +1,7068 @@
+ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+ford   mustang   2016      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+ford   mustang   2016      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+For   fiesta   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   fiesta   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   fiesta   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   fiesta   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   fiesta   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   fiesta   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   f150   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   f150   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   f150   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   f150   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   f150   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   f150   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+Toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+Honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+Porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   f150   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+Toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+Honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+Porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   f150   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+Ford   mustang   2016      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 8
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 9
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+Toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+Honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+Porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   f150   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+Ford   mustang   2016      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 8
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 9
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+Toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+Honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+Porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   f150   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+Ford   mustang   2016      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 8
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 9
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+Toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+Honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+Porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   f150   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+Ford   mustang   2016      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 8
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 9
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 2
+
+
+Toyota   prius   2012      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+Honda   civic   2005      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+Porsche   carrera 911   1996      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   f150   2000      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 7
+
+
+Ford   mustang   2016      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 8
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 9
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -805.0
+AutoID: 2
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 360.0
+AutoID: 7
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 8
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 360.0
+AutoID: 9
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -805.0
+AutoID: 2
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 360.0
+AutoID: 7
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 8
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 360.0
+AutoID: 9
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -805.0
+AutoID: 2
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 360.0
+AutoID: 7
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 8
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 360.0
+AutoID: 9
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 10
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 1
+
+
+Nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -805.0
+AutoID: 2
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 3
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 4
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 6
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 360.0
+AutoID: 7
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 8
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 360.0
+AutoID: 9
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 605.0
+AutoID: 10
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 1
+
+
+Nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 3
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 6
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 7
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 8
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 9
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 90595.0
+AutoID: 10
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 1
+
+
+Nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 3
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 6
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 7
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 8
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 9
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 90595.0
+AutoID: 10
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 1
+
+
+Nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 3
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 6
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 7
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 8
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 9
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 90595.0
+AutoID: 10
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 1
+
+
+Nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 3
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 6
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 7
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 8
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 9
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 90595.0
+AutoID: 10
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 1
+
+
+Nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 1
+
+
+Nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+ord   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+issan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+oyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 3
+
+
+onda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+orsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 5
+
+
+eep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 6
+
+
+ord   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 350.0
+AutoID: 7
+
+
+ord   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 8
+
+
+oyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+onda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 2
+
+
+oyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:blue
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+onda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 2
+
+
+orsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 3
+
+
+eep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+ord   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 350.0
+AutoID: 5
+
+
+ord   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 6
+
+
+esla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 350.0
+AutoID: 7
+
+
+esla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 8
+
+
+oyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+onda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 2
+
+
+orsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 3
+
+
+eep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+ord   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 350.0
+AutoID: 5
+
+
+ord   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 6
+
+
+esla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 350.0
+AutoID: 7
+
+
+esla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 8
+
+
+oyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+onda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 2
+
+
+orsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 3
+
+
+eep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+ord   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 350.0
+AutoID: 5
+
+
+ord   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 6
+
+
+esla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 350.0
+AutoID: 7
+
+
+esla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 8
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 2
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 3
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 5
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 6
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 7
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 90595.0
+AutoID: 8
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 2
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 3
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 5
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 6
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 7
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 90595.0
+AutoID: 8
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 2
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 3
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 5
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 6
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 7
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 90595.0
+AutoID: 8
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 2
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 3
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 5
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 6
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 7
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 90595.0
+AutoID: 8
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 1
+
+
+Nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 3
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 6
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 7
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 8
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 9
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 90595.0
+AutoID: 10
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 2
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 3
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:blue
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 5
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 6
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 7
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 90595.0
+AutoID: 8
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 2
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 3
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 5
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 6
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 7
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 90595.0
+AutoID: 8
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 2
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 3
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 5
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 6
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 7
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 90595.0
+AutoID: 8
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 2
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 3
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 5
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 6
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 7
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 90595.0
+AutoID: 8
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 2
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 3
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 5
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 6
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 7
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 90595.0
+AutoID: 8
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 2
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 3
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:blue
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 5
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 6
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 7
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 90595.0
+AutoID: 8
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 1
+
+
+Nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:yellow
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 3
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 6
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 7
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 8
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 9
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 90595.0
+AutoID: 10
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 2
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 3
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:yellow
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 5
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 6
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 7
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 90595.0
+AutoID: 8
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 2
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 3
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 5
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 6
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 7
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 90595.0
+AutoID: 8
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 1
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 2
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 3
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 5
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 6
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 7
+
+
+Tesla   model x   2015      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 90595.0
+AutoID: 8
+
+
+Ford   mustang   1969      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 1
+
+
+Nissan   z   2008      Plus
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 2   400.0
+Transmission: true   -815.0
+Air Bags: false    0.0
+Moonroof: false   0.0
+Total Price: -815.0
+AutoID: 2
+
+
+Toyota   prius   2012      Pro
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 1   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 3
+
+
+Honda   civic   2005      Premium
+********************************************
+|              OPTION REPORT              |
+Color:orange
+ABS: 3   1625.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 4
+
+
+Porsche   carrera 911   1996      Premium
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 100595.0
+AutoID: 5
+
+
+jeep   grand cherokee   2000      Premium
+********************************************
+|              OPTION REPORT              |
+Color:red
+ABS: 4   0.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: true   595.0
+Total Price: 595.0
+AutoID: 6
+
+
+Ford   f150   2000      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 50350.0
+AutoID: 7
+
+
+Ford   mustang   2016      Pro
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 2   400.0
+Transmission: false   0.0
+Air Bags: false    0.0
+Moonroof: true   595.0
+Total Price: 70595.0
+AutoID: 8
+
+
+Tesla   roadster   2013      Plus
+********************************************
+|              OPTION REPORT              |
+Color:black
+ABS: 1   0.0
+Transmission: true   -815.0
+Air Bags: true    350.0
+Moonroof: false   0.0
+Total Price: 120350.0
+AutoID: 9
+
+

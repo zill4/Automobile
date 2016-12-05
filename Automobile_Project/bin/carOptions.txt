@@ -1,0 +1,12 @@
+Toyota,Prius,2012,green,1,false,true,true
+
+Honda,Civic,2005,orange,3,false,true,true
+
+Porsche,Carrera 911,1996,black,2,false,true,true
+jeep,Grand Cherokee,2000,brown,4,fal,true,true
+Ford,F150,2000,black,2,false,true,false
+
+Ford,Mustang,2016,black,2,false,false,true
+
+Tesla,Roadster,2013,black,1,true,true,false
+Tesla,Model X,2015,red,1,true,true,true
